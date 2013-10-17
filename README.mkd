@@ -1,0 +1,14 @@
+
+## neocomplete-source-javafx-css
+
+JavaFX has a CSS styling feature, and that CSS is arranged for JavaFX.
+It has a `-fx-` prefiex properties.
+
+This plugin provides you those `-fx-` prefixed propety list for neocomplete.vim.
+
+
+## Environment
+
+JavaFX2 in Oracle JDK 1.7.0_45
+
+CSS properties ware parsed from http://docs.oracle.com/javafx/2/api/javafx/scene/doc-files/cssref.html
